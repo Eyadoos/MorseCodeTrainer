@@ -1,9 +1,11 @@
 # MorseCodeTrainer
 Purpose:
+
   The purpose of this project is to develop a Morse code trainer that will display one of
   the keys A-Z and the player should enter the corresponding Morse code.
  
 Description:
+
   The main function of this model is to develop a Morse code trainer that will display one of
   the keys A-Z. The user should enter the Morse code using a button and as a result
   corresponding alphabet will be displayed on the LCD screen which is connected to an
@@ -16,7 +18,9 @@ Description:
   input to 3 second as a dash.
   
 Hardware Components:
+
   To achieve the purpose of this project we need the following hardware components:
+  
     ● Bread board;
     ● Arduino uno;
     ● Resistor;
@@ -25,5 +29,6 @@ Hardware Components:
     ● Button.
 
 Design:
+
   The final result of the project will look the following:
   And the schematic for the whole project is the fo
