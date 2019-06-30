@@ -1,3 +1,5 @@
+# Morse Code Trainer
+
 ## Purpose:
 
   The purpose of this project is to develop a Morse code trainer that will display one of
