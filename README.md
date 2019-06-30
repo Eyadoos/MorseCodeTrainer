@@ -30,7 +30,9 @@
   
   ![Project Schematics - Fritzing](https://i.imgur.com/Vr5dwgv.png)
   
-  And the schematic for the whole project is the fo
+  And the schematic for the whole project is the following:
+  
+  ![Project Schematics - Fritzing](https://i.imgur.com/N72nYAS.png)
 
 ## Implementation
 
