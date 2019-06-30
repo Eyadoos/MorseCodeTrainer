@@ -6,15 +6,12 @@
  
 ## Description:
 
-  The main function of this model is to develop a Morse code trainer that will display one of
-  the keys A-Z. The user should enter the Morse code using a button and as a result
-  corresponding alphabet will be displayed on the LCD screen which is connected to an
-  Arduino board via the breadboard (as shown in design) and at the end circuit is
-  completed by connecting it to a power source (batteries or USB source). Beeper and
-  button are connected to the Arduino board via 2 digital i/o pins. Button transmits the data
+  The main function of this model is to develop a Morse code trainer that uses the Koch method for training Morse code. It divides the alphabet into 4 difficulties based on the number of dots or dashes each letter has. The process starts by displaying letters from the  the first and easiest difficulty until and keeps repeating the letter in this difficulty until the user masters these letters then moves on to the next difficulty level where it selects letters from this level and any previous level. After selecting a letter from the corresponding difficulty level, the circuit plays the sound of this letter in Morse Code using a beeper. The user should enter the Morse code for the corresponding letter using a button.
+  
+  The beeper and
+   the button are connected to the Arduino board via 2 digital i/o pins. Button transmits the data
   to the Arduino board, which will further assess the Morse code in dot or dash format.
-  Whenever the button is pressed, the dot duration is 300 ms and dash duration is 1 sec. We also have  If the button is pressed beyond 3 seconds, the Arduino will restrict the
-  input to 3 second as a dash.
+  Whenever the button is pressed, we check the duration of the button press and comparte it to the dot duration which is 300ms or dash duration which is 1 sec.
   
 ## Hardware Components:
 
