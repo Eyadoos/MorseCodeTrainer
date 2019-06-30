@@ -11,7 +11,7 @@
   The beeper and
    the button are connected to the Arduino board via 2 digital i/o pins. Button transmits the data
   to the Arduino board, which will further assess the Morse code in dot or dash format.
-  Whenever the button is pressed, we check the duration of the button press and comparte it to the dot duration which is 300ms or dash duration which is 1 sec.
+  Whenever the button is pressed, we check the duration of the button press and comparte it to the dot duration which is 300ms or dash duration which is 1sec.
   
 ## Hardware Components:
 
@@ -27,6 +27,9 @@
 ## Design:
 
   The final result of the project will look the following:
+  
+  ![Project Schematics - Fritzing](https://imgur.com/Vr5dwgv)
+  
   And the schematic for the whole project is the fo
 
 ## Implementation
