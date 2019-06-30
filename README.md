@@ -2,7 +2,7 @@
 Purpose:
   The purpose of this project is to develop a Morse code trainer that will display one of
   the keys A-Z and the player should enter the corresponding Morse code.
-  
+ 
 Description:
   The main function of this model is to develop a Morse code trainer that will display one of
   the keys A-Z. The user should enter the Morse code using a button and as a result
