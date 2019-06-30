@@ -35,7 +35,5 @@
   
   ![Project Schematics - Fritzing](https://i.imgur.com/N72nYAS.png)
 
-## Implementation
-
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
