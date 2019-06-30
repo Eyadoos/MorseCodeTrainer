@@ -13,8 +13,7 @@
   completed by connecting it to a power source (batteries or USB source). Beeper and
   button are connected to the Arduino board via 2 digital i/o pins. Button transmits the data
   to the Arduino board, which will further assess the Morse code in dot or dash format.
-  Whenever the button is pressed, the beeper will buzz for dot (1 sec) and dash (1 sec - 3
-  sec) accordingly. If the button is pressed beyond 3 seconds, the Arduino will restrict the
+  Whenever the button is pressed, the dot duration is 300 ms and dash duration is 1 sec. We also have  If the button is pressed beyond 3 seconds, the Arduino will restrict the
   input to 3 second as a dash.
   
 ## Hardware Components:
@@ -32,3 +31,8 @@
 
   The final result of the project will look the following:
   And the schematic for the whole project is the fo
+
+## Implementation
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
