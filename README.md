@@ -28,7 +28,7 @@
 
   The final result of the project will look the following:
   
-  ![Project Schematics - Fritzing](https://imgur.com/Vr5dwgv)
+  ![Project Schematics - Fritzing](https://i.imgur.com/Vr5dwgv.png)
   
   And the schematic for the whole project is the fo
 
